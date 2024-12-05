@@ -10,7 +10,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐄𝐍𝐙𝐎+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐄𝐍𝐙𝐎)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐏𝐎𝐏𝐊𝐈𝐃+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐏𝐎𝐏𝐊𝐈𝐃)](https://git.io/typing-svg) 
 
 <p align="centre"><img src="https://i.ibb.co/Sn9pq3r/IMG-20241202-WA0001.jpg" width="500" height="500" />
 
@@ -89,7 +89,7 @@
 
 ## FINAL REMARKS ON MY REPO (STATS)
 
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=Enzotech&repo=ENZO-MD&show_owner=true&theme=dark)
+![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=Popkiddevs&repo=NORMAL-BOT-MD&show_owner=true&theme=dark)
 
 
 
@@ -101,7 +101,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## CONTACT ENZOTECH HERE
+## CONTACT POPKID HERE
   DM FOR SERIOUS BUSINESS
 
    <a href="https://github.com/Popkiddevs/NORMAL-BOT-MD-INFO"><img title="CONTACT-POPKID" src="https://img.shields.io/badge/CONTACT-POPKID-h?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
